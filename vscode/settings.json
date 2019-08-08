@@ -23,7 +23,6 @@
         "prettier.trailingComma": "all",
         "prettier.tslintIntegration": true,
         "editor.formatOnPaste": true,
-        "update.enableWindowsBackgroundUpdates": false,
         "debug.console.fontSize": 13,
         "editor.fontLigatures": true,
         "[typescript]": {
@@ -57,4 +56,3 @@
             "editor.defaultFormatter": "esbenp.prettier-vscode"
         }
     }
-    
