@@ -1,0 +1,60 @@
+{
+    "editor.fontFamily": "Monaco",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "editor.minimap.enabled": false,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 60000,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "beautify.config": {
+        "brace_style": "collapse,preserve-inline"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "rust-client.rustupPath": "/home/~/.cargo/bin/rustup",
+    "window.titleBarStyle": "custom",
+        "window.restoreWindows": "none",
+        "python.linting.enabled": true,
+        "workbench.iconTheme": "material-icon-theme",
+        "terminal.integrated.fontFamily": "Inconsolata",
+        "gitlens.mode.active": "zen",
+        "editor.tabCompletion": "on",
+        "prettier.eslintIntegration": true,
+        "prettier.trailingComma": "all",
+        "prettier.tslintIntegration": true,
+        "editor.formatOnPaste": true,
+        "update.enableWindowsBackgroundUpdates": false,
+        "debug.console.fontSize": 13,
+        "editor.fontLigatures": true,
+        "[typescript]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "editor.tabSize": 2,
+        "[javascript]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "[typescriptreact]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "[scss]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "[javascriptreact]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "[css]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "go.autocompleteUnimportedPackages": true,
+        "terminal.integrated.fontSize": 15,
+        "workbench.colorTheme": "Material Theme Darker High Contrast",
+        "editor.fontSize": 12.5,
+        "workbench.panel.defaultLocation": "right",
+        "[jsonc]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode"
+        },
+        "[json]": {
+            "editor.defaultFormatter": "esbenp.prettier-vscode"
+        }
+    }
+    
